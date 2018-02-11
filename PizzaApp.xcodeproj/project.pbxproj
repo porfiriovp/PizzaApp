@@ -7,13 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F1476786202C989F00F4DE60 /* vistaIngredienteUno.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1476785202C989F00F4DE60 /* vistaIngredienteUno.swift */; };
+		F1476788202D283600F4DE60 /* vistaIngredienteDos.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1476787202D283600F4DE60 /* vistaIngredienteDos.swift */; };
+		F16B18AB2022928B0022F12D /* vistaTipoDeQueso.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B18AA2022928B0022F12D /* vistaTipoDeQueso.swift */; };
+		F16B18AF2022BD260022F12D /* vistaOrden.swift in Sources */ = {isa = PBXBuildFile; fileRef = F16B18AE2022BD260022F12D /* vistaOrden.swift */; };
+		F19606D2202171BC005D74F7 /* vistaTipoDeMasa.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19606D1202171BC005D74F7 /* vistaTipoDeMasa.swift */; };
 		F19BE4B9201ACEAD00FC9469 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19BE4B8201ACEAD00FC9469 /* AppDelegate.swift */; };
-		F19BE4BB201ACEAD00FC9469 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19BE4BA201ACEAD00FC9469 /* ViewController.swift */; };
+		F19BE4BB201ACEAD00FC9469 /* vistaTamano.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19BE4BA201ACEAD00FC9469 /* vistaTamano.swift */; };
 		F19BE4BE201ACEAD00FC9469 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F19BE4BC201ACEAD00FC9469 /* Main.storyboard */; };
 		F19BE4C0201ACEAD00FC9469 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F19BE4BF201ACEAD00FC9469 /* Assets.xcassets */; };
 		F19BE4C3201ACEAD00FC9469 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F19BE4C1201ACEAD00FC9469 /* LaunchScreen.storyboard */; };
 		F19BE4CE201ACEAD00FC9469 /* PizzaAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19BE4CD201ACEAD00FC9469 /* PizzaAppTests.swift */; };
 		F19BE4D9201ACEAD00FC9469 /* PizzaAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F19BE4D8201ACEAD00FC9469 /* PizzaAppUITests.swift */; };
+		F1D69532202DE2D900C7FBC4 /* vistaIngredientesTres.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D69531202DE2D900C7FBC4 /* vistaIngredientesTres.swift */; };
+		F1D69534202DE30800C7FBC4 /* vistaIngredientesCuatro.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D69533202DE30800C7FBC4 /* vistaIngredientesCuatro.swift */; };
+		F1D69536202DE34500C7FBC4 /* vistaIngredientesCinco.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D69535202DE34500C7FBC4 /* vistaIngredientesCinco.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F1476785202C989F00F4DE60 /* vistaIngredienteUno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaIngredienteUno.swift; sourceTree = "<group>"; };
+		F1476787202D283600F4DE60 /* vistaIngredienteDos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaIngredienteDos.swift; sourceTree = "<group>"; };
+		F16B18AA2022928B0022F12D /* vistaTipoDeQueso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaTipoDeQueso.swift; sourceTree = "<group>"; };
+		F16B18AE2022BD260022F12D /* vistaOrden.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaOrden.swift; sourceTree = "<group>"; };
+		F19606D1202171BC005D74F7 /* vistaTipoDeMasa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaTipoDeMasa.swift; sourceTree = "<group>"; };
 		F19BE4B5201ACEAC00FC9469 /* PizzaApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PizzaApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F19BE4B8201ACEAD00FC9469 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F19BE4BA201ACEAD00FC9469 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F19BE4BA201ACEAD00FC9469 /* vistaTamano.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaTamano.swift; sourceTree = "<group>"; };
 		F19BE4BD201ACEAD00FC9469 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F19BE4BF201ACEAD00FC9469 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F19BE4C2201ACEAD00FC9469 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +60,9 @@
 		F19BE4D4201ACEAD00FC9469 /* PizzaAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PizzaAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F19BE4D8201ACEAD00FC9469 /* PizzaAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaAppUITests.swift; sourceTree = "<group>"; };
 		F19BE4DA201ACEAD00FC9469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1D69531202DE2D900C7FBC4 /* vistaIngredientesTres.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaIngredientesTres.swift; sourceTree = "<group>"; };
+		F1D69533202DE30800C7FBC4 /* vistaIngredientesCuatro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaIngredientesCuatro.swift; sourceTree = "<group>"; };
+		F1D69535202DE34500C7FBC4 /* vistaIngredientesCinco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vistaIngredientesCinco.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +114,19 @@
 			isa = PBXGroup;
 			children = (
 				F19BE4B8201ACEAD00FC9469 /* AppDelegate.swift */,
-				F19BE4BA201ACEAD00FC9469 /* ViewController.swift */,
+				F19BE4BA201ACEAD00FC9469 /* vistaTamano.swift */,
 				F19BE4BC201ACEAD00FC9469 /* Main.storyboard */,
 				F19BE4BF201ACEAD00FC9469 /* Assets.xcassets */,
 				F19BE4C1201ACEAD00FC9469 /* LaunchScreen.storyboard */,
 				F19BE4C4201ACEAD00FC9469 /* Info.plist */,
+				F19606D1202171BC005D74F7 /* vistaTipoDeMasa.swift */,
+				F16B18AA2022928B0022F12D /* vistaTipoDeQueso.swift */,
+				F16B18AE2022BD260022F12D /* vistaOrden.swift */,
+				F1476785202C989F00F4DE60 /* vistaIngredienteUno.swift */,
+				F1476787202D283600F4DE60 /* vistaIngredienteDos.swift */,
+				F1D69531202DE2D900C7FBC4 /* vistaIngredientesTres.swift */,
+				F1D69533202DE30800C7FBC4 /* vistaIngredientesCuatro.swift */,
+				F1D69535202DE34500C7FBC4 /* vistaIngredientesCinco.swift */,
 			);
 			path = PizzaApp;
 			sourceTree = "<group>";
@@ -259,8 +283,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F19BE4BB201ACEAD00FC9469 /* ViewController.swift in Sources */,
+				F19BE4BB201ACEAD00FC9469 /* vistaTamano.swift in Sources */,
+				F1476786202C989F00F4DE60 /* vistaIngredienteUno.swift in Sources */,
+				F16B18AB2022928B0022F12D /* vistaTipoDeQueso.swift in Sources */,
+				F1476788202D283600F4DE60 /* vistaIngredienteDos.swift in Sources */,
+				F1D69534202DE30800C7FBC4 /* vistaIngredientesCuatro.swift in Sources */,
+				F1D69532202DE2D900C7FBC4 /* vistaIngredientesTres.swift in Sources */,
+				F16B18AF2022BD260022F12D /* vistaOrden.swift in Sources */,
+				F19606D2202171BC005D74F7 /* vistaTipoDeMasa.swift in Sources */,
 				F19BE4B9201ACEAD00FC9469 /* AppDelegate.swift in Sources */,
+				F1D69536202DE34500C7FBC4 /* vistaIngredientesCinco.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
